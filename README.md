@@ -4,7 +4,7 @@ This repository hosts an LLM-Powered Knowledge Agent designed to bring visibilit
 
 ### The Challenge: Lack of Visibility
 
-The data ecosystem generates a vast amount of data through complex processing steps. This abundance of information previously led to significant challenges:
+Data ecosystem generates a vast amount of data through complex processing steps. This abundance of information previously led to significant challenges:
 
 - Limited Insight: Quickly understanding critical aspects like data lineage (where data originates), data transformations (how it's processed), and component dependencies was a painstaking process.
 - Debugging Difficulties: The lack of clear visibility made troubleshooting issues time-consuming and frustrating.
